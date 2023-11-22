@@ -48,4 +48,5 @@ Figure 43: DD_MNIST_SVM\all
 
 Figure 44: DD_MNIST_LOG
 
-https://drive.google.com/file/d/1dNAlc2J1Ivo9Ic3VaSWyRqcARddhVVEZ/view?usp=drive_link
+
+<a href="{video-url}" title="Link Title"><img src="{[image-url](https://drive.google.com/file/d/1dNAlc2J1Ivo9Ic3VaSWyRqcARddhVVEZ/view?usp=drive_link)https://drive.google.com/file/d/1dNAlc2J1Ivo9Ic3VaSWyRqcARddhVVEZ/view?usp=drive_link}" alt="Alternate Text" /></a>
